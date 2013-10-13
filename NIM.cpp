@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+	cout << "My name is Vikingur Hauksson btw" << endl;
 	return 0;
 }
 
